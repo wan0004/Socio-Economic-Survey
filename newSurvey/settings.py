@@ -40,7 +40,6 @@ INSTALLED_APPS = [
     'act',
     'multiselectfield',
     'import_export',
-    'tabular_export',
 ]
 
 MIDDLEWARE = [
